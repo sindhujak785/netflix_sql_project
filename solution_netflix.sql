@@ -125,7 +125,7 @@ SELECT * FROM
 WHERE 
 	genre='Documentaries';
 	
-'
+
 --12. Find all content without a director
 SELECT * FROM netflix
 WHERE director IS null;
